@@ -1,0 +1,38 @@
+_repo: The-White-Elephant-and-Other-Tales-From-India_52515
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Richardson, Frederick
+    birthdate: 1862
+    deathdate: 1937
+    gutenberg_agent_id: '26627'
+    url: http://www.gutenberg.org/2009/agents/26627
+creator:
+  author:
+    agent_name: Faulkner, Georgene
+    alias: Story lady
+    birthdate: 1873
+    deathdate: 1958
+    gutenberg_agent_id: '46904'
+    url: http://www.gutenberg.org/2009/agents/46904
+    wikipedia: https://en.wikipedia.org/wiki/Georgene_Faulkner
+description: ''
+gutenberg_issued: '2016-07-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52515'
+  lccn: '84254772'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Tales -- India'
+- GITenberg
+tableOfContents: The white elephant -- The grain of corn -- The timid little rabbit
+  -- Singh Rajah and the cunning little jackals -- The kingdom of Mouseland -- The
+  alligator and the jackal -- The bold blackbird -- The kid and the tiger -- The brahmin
+  and the tiger -- The bear's bad bargain -- The man who rode a tiger.
+title: The White Elephant, and Other Tales From India
+url: http://www.gutenberg.org/ebooks/52515
